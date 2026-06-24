@@ -1,5 +1,5 @@
 /**
-* Winnie Assignment 1 Visual Computing 
+* Winnie Davis - 2026
 * 
 */
 
